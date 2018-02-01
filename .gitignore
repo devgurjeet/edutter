@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+#custom Ignores
+pip-selfcheck.json
+bin/
+include/
